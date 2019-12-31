@@ -8,6 +8,6 @@ test the application on my iPhone, which allows me to do so without XCode.
 
 ## Technologies
 <ul>
-  <li>React Native</li>
+  <li>JavaScript (React Native)</li>
   <li>Expo</li>
 </ul>
